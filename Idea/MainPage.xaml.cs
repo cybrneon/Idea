@@ -50,22 +50,23 @@ namespace Idea
                 switch (item.Tag.ToString())
                 {
                     case "TodayPageTag":
+                        sender.Header = "Today";
                         contentFrame.Navigate(typeof(TodayPage));
                         break;
 
                     case "ImportantPageTag":
+                        sender.Header = "Important";
                         contentFrame.Navigate(typeof(ImportantPage));
-                        AppNavigation.Header = "Important";
                         break;
 
                     case "UpcomingPageTag":
+                        sender.Header = "Upcoming";
                         contentFrame.Navigate(typeof(UpcomingPage));
-                        AppNavigation.Header = "Upcoming";
                         break;
 
                     case "LogBookPageTag":
+                        sender.Header = "Log Book";
                         contentFrame.Navigate(typeof(LogBookPage));
-                        AppNavigation.Header = "Log Book";
                         break;
                 }
             }
@@ -76,6 +77,15 @@ namespace Idea
             if (args.Reason == AutoSuggestionBoxTextChangeReason.UserInput)
             {
                 //do something
+            }
+        }
+
+        private void AppNavigation_ItemInvoked(Microsoft.UI.Xaml.Controls.NavigationView sender, Microsoft.UI.Xaml.Controls.NavigationViewItemInvokedEventArgs args)
+        {
+            if (args.IsSettingsInvoked)
+            {
+                sender.Header = "Settings";
+                contentFrame.Navigate(typeof(SettingsPage));
             }
         }
     }

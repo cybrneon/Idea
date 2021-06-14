@@ -16,14 +16,17 @@
     </RootType>
     <RootType FullName="Microsoft.UI.Xaml.Controls.NavigationView">
       <RootProperty Name="PaneDisplayMode" />
+      <RootProperty Name="IsTitleBarAutoPaddingEnabled" />
       <RootProperty Name="AutoSuggestBox" />
       <RootProperty Name="MenuItems" />
       <RootProperty Name="Content" />
       <RootEvent Name="Loaded" />
       <RootEvent Name="SelectionChanged" />
+      <RootEvent Name="ItemInvoked" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.AutoSuggestBox">
       <RootProperty Name="QueryIcon" />
+      <RootEvent Name="TextChanged" />
     </RootType>
     <RootType FullName="Microsoft.UI.Xaml.Controls.NavigationViewItem">
       <RootProperty Name="Icon" />

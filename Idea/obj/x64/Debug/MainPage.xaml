@@ -10,14 +10,14 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid Background="{ThemeResource SystemControlAcrylicElementBrush}">
-        <muxc:NavigationView x:ConnectionId='2' x:Name="AppNavigation"                                                                                 PaneDisplayMode="Left">
+        <muxc:NavigationView x:ConnectionId='2' x:Name="AppNavigation"                                                                                 PaneDisplayMode="Left" IsTitleBarAutoPaddingEnabled="False"                                        >
 
             <muxc:NavigationView.AutoSuggestBox>
-                <AutoSuggestBox x:ConnectionId='3' x:Name="SearchTasks" QueryIcon="Find"/>
+                <AutoSuggestBox x:ConnectionId='3' x:Name="SearchTasks" QueryIcon="Find"                                      />
             </muxc:NavigationView.AutoSuggestBox>
 
             <muxc:NavigationView.MenuItems>
-                <muxc:NavigationViewItem Icon="Play" Content="Today" Tag="TodayPageTag" />
+                <muxc:NavigationViewItem Icon="Play" Content="Today" Tag="TodayPageTag"/>
                 <muxc:NavigationViewItem Icon="Important" Content="Important" Tag="ImportantPageTag" />
                 <muxc:NavigationViewItem Icon="Refresh" Content="Upcoming" Tag="UpcomingPageTag" />
                 <muxc:NavigationViewItem Icon="Download" Content="Logbook" Tag="LogBookPageTag" />

@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\adamc\source\repos\Idea\Idea\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-14T20:01:50.495</Modified>
+      <Modified>2021-06-14T20:38:23.091</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\bin\x64\Debug\Idea.exe">
       <PackagePath>entrypoint\Idea.exe</PackagePath>
-      <Modified>2021-06-14T20:01:49.139</Modified>
+      <Modified>2021-06-14T20:38:21.044</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x64\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -86,35 +86,35 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\bin\x64\Debug\Idea.xr.xml">
       <PackagePath>Idea.xr.xml</PackagePath>
-      <Modified>2021-06-14T20:01:48.885</Modified>
+      <Modified>2021-06-14T20:38:20.707</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-06-14T20:01:48.902</Modified>
+      <Modified>2021-06-14T20:38:20.769</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2021-06-14T20:01:48.902</Modified>
+      <Modified>2021-06-14T20:38:20.770</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\bin\x64\Debug\Pages\ImportantPage.xbf">
       <PackagePath>Pages\ImportantPage.xbf</PackagePath>
-      <Modified>2021-06-14T20:01:48.902</Modified>
+      <Modified>2021-06-14T20:38:20.770</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\bin\x64\Debug\Pages\LogBookPage.xbf">
       <PackagePath>Pages\LogBookPage.xbf</PackagePath>
-      <Modified>2021-06-14T20:01:48.902</Modified>
+      <Modified>2021-06-14T20:38:20.770</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\bin\x64\Debug\Pages\SettingsPage.xbf">
       <PackagePath>Pages\SettingsPage.xbf</PackagePath>
-      <Modified>2021-06-14T20:01:48.902</Modified>
+      <Modified>2021-06-14T20:38:20.770</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\bin\x64\Debug\Pages\TodayPage.xbf">
       <PackagePath>Pages\TodayPage.xbf</PackagePath>
-      <Modified>2021-06-14T20:01:48.903</Modified>
+      <Modified>2021-06-14T20:38:20.770</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\bin\x64\Debug\Pages\UpcomingPage.xbf">
       <PackagePath>Pages\UpcomingPage.xbf</PackagePath>
-      <Modified>2021-06-14T20:01:48.903</Modified>
+      <Modified>2021-06-14T20:38:20.771</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\X64\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -134,7 +134,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\bin\x64\Debug\Core\Idea.exe">
       <PackagePath>Idea.exe</PackagePath>
-      <Modified>2021-06-14T20:01:50.488</Modified>
+      <Modified>2021-06-14T20:38:23.077</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

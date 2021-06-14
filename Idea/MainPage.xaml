@@ -10,7 +10,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid Background="{ThemeResource SystemControlAcrylicElementBrush}">
-        <muxc:NavigationView x:Name="AppNavigation" Loaded="AppNavigation_Loaded" SelectionChanged="AppNavigation_SelectionChanged" PaneDisplayMode="Left">
+        <muxc:NavigationView x:Name="AppNavigation" Loaded="AppNavigation_Loaded" SelectionChanged="AppNavigation_SelectionChanged" PaneDisplayMode="Left" IsTitleBarAutoPaddingEnabled="False" ItemInvoked="AppNavigation_ItemInvoked">
 
             <muxc:NavigationView.AutoSuggestBox>
                 <AutoSuggestBox x:Name="SearchTasks" QueryIcon="Find" TextChanged="SearchTasks_TextChanged"/>
