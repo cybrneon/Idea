@@ -1,0 +1,1 @@
+C:\Users\adamc\source\repos\Idea\Idea\Idea.csproj;x64

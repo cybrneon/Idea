@@ -1,0 +1,33 @@
+﻿<Page
+    x:Class="Idea.MainPage"
+    xmlns:muxc="using:Microsoft.UI.Xaml.Controls"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Idea"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="{ThemeResource SystemControlAcrylicElementBrush}">
+        <muxc:NavigationView x:Name="AppNavigation" Loaded="AppNavigation_Loaded" SelectionChanged="AppNavigation_SelectionChanged" PaneDisplayMode="Left">
+
+            <muxc:NavigationView.AutoSuggestBox>
+                <AutoSuggestBox x:Name="SearchTasks" QueryIcon="Find" TextChanged="SearchTasks_TextChanged"/>
+            </muxc:NavigationView.AutoSuggestBox>
+
+            <muxc:NavigationView.MenuItems>
+                <muxc:NavigationViewItem Icon="Play" Content="Today" Tag="TodayPageTag"/>
+                <muxc:NavigationViewItem Icon="Important" Content="Important" Tag="ImportantPageTag" />
+                <muxc:NavigationViewItem Icon="Refresh" Content="Upcoming" Tag="UpcomingPageTag" />
+                <muxc:NavigationViewItem Icon="Download" Content="Logbook" Tag="LogBookPageTag" />
+                <muxc:NavigationViewItemHeader Content="My lists"/>
+                <muxc:NavigationViewItem Icon="Download" Content="Custom list" Tag="SamplePage5" />
+            </muxc:NavigationView.MenuItems>
+            <ScrollViewer>
+                <Frame x:Name="contentFrame"/>
+            </ScrollViewer>
+        </muxc:NavigationView>
+
+    </Grid>
+</Page>
