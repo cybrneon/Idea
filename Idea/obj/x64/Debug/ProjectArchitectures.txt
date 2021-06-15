@@ -1,1 +1,1 @@
-C:\Users\adamc\source\repos\Idea\Idea\Idea.csproj;x64
+C:\Users\adamc\source\GitHub\Idea\Idea\Idea.csproj;x64

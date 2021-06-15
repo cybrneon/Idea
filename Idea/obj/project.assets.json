@@ -8294,11 +8294,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adamc\\source\\repos\\Idea\\Idea\\Idea.csproj",
+      "projectUniqueName": "C:\\Users\\adamc\\source\\GitHub\\Idea\\Idea\\Idea.csproj",
       "projectName": "Idea",
-      "projectPath": "C:\\Users\\adamc\\source\\repos\\Idea\\Idea\\Idea.csproj",
+      "projectPath": "C:\\Users\\adamc\\source\\GitHub\\Idea\\Idea\\Idea.csproj",
       "packagesPath": "C:\\Users\\adamc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adamc\\source\\repos\\Idea\\Idea\\obj\\",
+      "outputPath": "C:\\Users\\adamc\\source\\GitHub\\Idea\\Idea\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

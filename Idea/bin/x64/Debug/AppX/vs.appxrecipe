@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>d81157b5-6e5d-45f2-a349-01bf2d08c874</PackageIdentityName>
     <PackageIdentityPublisher>CN=adamc</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\adamc\source\repos\Idea\Idea\obj\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\adamc\source\GitHub\Idea\Idea\obj\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\adamc\source\repos\Idea\Idea\bin\x64\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\adamc\source\GitHub\Idea\Idea\bin\x64\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>C91137F685378667C0994182E6B301943DC0161D35381937AF493AE573FADF01</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>d81157b5-6e5d-45f2-a349-01bf2d08c874_1.0.0.0_x64__bt41qc0zp9564</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>d81157b5-6e5d-45f2-a349-01bf2d08c874_bt41qc0zp9564!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\adamc\source\repos\Idea\Idea\bin\x64\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\adamc\source\GitHub\Idea\Idea\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-06-14T20:38:23.091</Modified>
+      <Modified>2021-06-15T19:19:21.419</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\bin\x64\Debug\Idea.exe">
+    <AppxPackagedFile Include="C:\Users\adamc\source\GitHub\Idea\Idea\bin\x64\Debug\Idea.exe">
       <PackagePath>entrypoint\Idea.exe</PackagePath>
-      <Modified>2021-06-14T20:38:21.044</Modified>
+      <Modified>2021-06-15T19:19:18.648</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x64\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -46,75 +46,75 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2020-12-02T02:52:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\adamc\source\GitHub\Idea\Idea\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2021-06-13T19:08:41.380</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\adamc\source\GitHub\Idea\Idea\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2021-06-08T09:49:00.659</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\adamc\source\GitHub\Idea\Idea\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-06-08T09:49:00.665</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\adamc\source\GitHub\Idea\Idea\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-06-08T09:49:00.666</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\adamc\source\GitHub\Idea\Idea\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-06-08T09:49:00.669</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\adamc\source\GitHub\Idea\Idea\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-06-08T09:49:00.671</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\adamc\source\GitHub\Idea\Idea\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-06-08T09:49:00.673</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\adamc\source\GitHub\Idea\Idea\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-06-08T09:49:00.674</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\bin\x64\Debug\Idea.xr.xml">
+    <AppxPackagedFile Include="C:\Users\adamc\source\GitHub\Idea\Idea\bin\x64\Debug\Idea.xr.xml">
       <PackagePath>Idea.xr.xml</PackagePath>
       <Modified>2021-06-14T20:38:20.707</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\bin\x64\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\adamc\source\GitHub\Idea\Idea\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-06-14T20:38:20.769</Modified>
+      <Modified>2021-06-15T19:19:18.335</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\bin\x64\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\adamc\source\GitHub\Idea\Idea\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2021-06-14T20:38:20.770</Modified>
+      <Modified>2021-06-15T19:19:18.335</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\bin\x64\Debug\Pages\ImportantPage.xbf">
+    <AppxPackagedFile Include="C:\Users\adamc\source\GitHub\Idea\Idea\bin\x64\Debug\Pages\ImportantPage.xbf">
       <PackagePath>Pages\ImportantPage.xbf</PackagePath>
-      <Modified>2021-06-14T20:38:20.770</Modified>
+      <Modified>2021-06-15T19:19:18.336</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\bin\x64\Debug\Pages\LogBookPage.xbf">
+    <AppxPackagedFile Include="C:\Users\adamc\source\GitHub\Idea\Idea\bin\x64\Debug\Pages\LogBookPage.xbf">
       <PackagePath>Pages\LogBookPage.xbf</PackagePath>
-      <Modified>2021-06-14T20:38:20.770</Modified>
+      <Modified>2021-06-15T19:19:18.337</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\bin\x64\Debug\Pages\SettingsPage.xbf">
+    <AppxPackagedFile Include="C:\Users\adamc\source\GitHub\Idea\Idea\bin\x64\Debug\Pages\SettingsPage.xbf">
       <PackagePath>Pages\SettingsPage.xbf</PackagePath>
-      <Modified>2021-06-14T20:38:20.770</Modified>
+      <Modified>2021-06-15T19:19:18.337</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\bin\x64\Debug\Pages\TodayPage.xbf">
+    <AppxPackagedFile Include="C:\Users\adamc\source\GitHub\Idea\Idea\bin\x64\Debug\Pages\TodayPage.xbf">
       <PackagePath>Pages\TodayPage.xbf</PackagePath>
-      <Modified>2021-06-14T20:38:20.770</Modified>
+      <Modified>2021-06-15T19:19:18.338</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\bin\x64\Debug\Pages\UpcomingPage.xbf">
+    <AppxPackagedFile Include="C:\Users\adamc\source\GitHub\Idea\Idea\bin\x64\Debug\Pages\UpcomingPage.xbf">
       <PackagePath>Pages\UpcomingPage.xbf</PackagePath>
-      <Modified>2021-06-14T20:38:20.771</Modified>
+      <Modified>2021-06-15T19:19:18.338</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\X64\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -128,13 +128,13 @@
       <PackagePath>WinMetadata\Microsoft.UI.Xaml.winmd</PackagePath>
       <Modified>2020-12-03T09:46:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\adamc\source\GitHub\Idea\Idea\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2021-06-14T19:49:01.704</Modified>
+      <Modified>2021-06-15T19:15:06.001</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\adamc\source\repos\Idea\Idea\bin\x64\Debug\Core\Idea.exe">
+    <AppxPackagedFile Include="C:\Users\adamc\source\GitHub\Idea\Idea\bin\x64\Debug\Core\Idea.exe">
       <PackagePath>Idea.exe</PackagePath>
-      <Modified>2021-06-14T20:38:23.077</Modified>
+      <Modified>2021-06-15T19:19:21.401</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
